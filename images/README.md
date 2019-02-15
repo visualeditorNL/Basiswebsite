@@ -1,6 +1,6 @@
 De map images is gemaakt om plaatjes in te bewaren.
 
-Het aanmaken van een map in een Github repo gaat door het tuypen van een "/" in het vak waar je een neiuw bestand een naam geeft.
+Het aanmaken van een map in een Github repo gaat door het typen van een "/" in het vak waar je een nieuw bestand een naam geeft.
 
 Ik typte achtereenvolgens
 
