@@ -1,4 +1,4 @@
-# website4V
+# Website maken met CSS
 
-In deze repo bouw ik een website voor 4V blok 1
+In deze repo staat een basiswebsite voor leerlingen van het IJburg College
 Het is een kleine website met twee pagina's en stijl in een apart stylesheet style.css
